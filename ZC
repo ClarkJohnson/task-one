@@ -33,7 +33,8 @@
 <h2>图片</h2>
  <!--  zc's task one -->
  <div>&nbsp&nbsp好看的图片 </div>&nbsp&nbsp<img src="http://www.dadofon.com/uploads/allimg/140627/1-14062G02541B2.jpg" alt = "My Image" title = "My Image"  style="width: 200px;height: 200px;" />  
- <div>&nbsp&nbsp好看的图片 </div>&nbsp&nbsp<img src="D:\sublime\page\pic in web\我女.jpg" alt = "My Image" title = "My Image"  style="width: 200px;height: 200px;" /> <!--本地路径和网络路径的区别，只上传html文件前者不会显示图片哦-->
+ <div>&nbsp&nbsp好看的图片 </div>&nbsp&nbsp<img src="D:\sublime\page\pic in web\我女.jpg" alt = "My Image" title = "My Image"  style="width: 200px;height: 200px;" />
+ <!--本地路径和网络路径的区别，只上传html文件前者不会显示图片哦。不用CSS也不知道怎么同时缩进图片和文字，解决方法待定，暂时用了&nbsp-->
 <h2>最后一篇文章一级标题</h2>
 <h2>文章二级标题</h2>
 <p>文章作者 文章发表时间</p>
